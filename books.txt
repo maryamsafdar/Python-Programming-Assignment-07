@@ -1,0 +1,8 @@
+101,The Great Gatsby,F. Scott Fitzgerald,True
+102,1984,George Orwell,True
+101,The Great Gatsby,F. Scott Fitzgerald,True
+102,1984,George Orwell,True
+101,The Great Gatsby,F. Scott Fitzgerald,True
+102,1984,George Orwell,True
+101,The Great Gatsby,F. Scott Fitzgerald,True
+102,1984,George Orwell,True
